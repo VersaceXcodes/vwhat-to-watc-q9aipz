@@ -1,9 +1,3 @@
-app generated from cofounder/boilerplate
+# vwhat-to-watc
 
-instructions here on how to start api and frontend , whether in parallel or separately
-
-
-
-
-
-
+This is the README for vwhat-to-watc.
